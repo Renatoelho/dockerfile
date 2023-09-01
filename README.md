@@ -32,7 +32,7 @@ O ***Dockerfile*** é uma parte fundamental da abordagem de ***conteinerização
 # Imagem base do nosso Dockerfile.
 FROM ubuntu:20.04
 
-# Notações para adicionar metadados a nossa imagem.
+# Anotações para adicionar aos metadados da nossa imagem.
 LABEL maintainer="Renato coelho <contato@renato.tec.br>"
 LABEL version="0.0.1"
 LABEL description="Está é uma imagem de exemplo."
