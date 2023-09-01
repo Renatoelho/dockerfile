@@ -110,4 +110,4 @@ docker exec -it servidor_app bash
 
 ### Referências: 
 
-Dockerfile reference, ***Docker Docs***. Disponível em: \<https://docs.docker.com/engine/reference/builder/\>. Acesso em: 01 set. de 2023.
+Dockerfile reference, ***Docker Docs***. Disponível em: \<[https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)\>. Acesso em: 01 set. de 2023.
